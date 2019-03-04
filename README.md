@@ -5,7 +5,7 @@ Bonjour à tous!
 Ceci est la première activité proposé par OpenClassrooms dans le cours: gérer votre code avec Git et Github
 (faisant partie du projet "Intégrer la communauté OpenClassrooms)
 
-Les consignes de cette exercices:
+Les consignes de cette exercice:
 
 Cet exercice a pour objectif de mettre en pratique les notions que vous avez acquises dans les deux premières parties de ce cours sur Git et Github.
 
